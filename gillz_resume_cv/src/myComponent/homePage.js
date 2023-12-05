@@ -16,7 +16,7 @@ class HomePage extends Component {
               <h1 className="name-css">
                 BAGENI <span className="surname">GILBERT</span>
               </h1>
-              <p className="sub-detail">DESIGNER AND DEVELOPER</p>
+              <p className="sub-detail">DESIGNER AND FULL STACK DEVELOPER</p>
               <br />
               <br />
 
@@ -24,16 +24,16 @@ class HomePage extends Component {
                 <p>Follow Me</p>
               </div>
               <p className="sub-detail2">
-                <a href="https://github.com/rachitgupta98">
+                <a href="https://github.com/gilbert2003-beep">
                   <i class="fab fa-github " />
                 </a>
-                <a href="https://www.instagram.com/_rachit_gupta/">
+                <a href="https://www.instagram.com/gilley_jr/">
                   <i class="fab fa-instagram " />
                 </a>
-                <a href="https://www.facebook.com/gr8.rachit">
+                <a href="https://www.facebook.com/profile.php?id=100086627101609">
                   <i class="fab fa-facebook-f" />
                 </a>
-                <a href="https://www.linkedin.com/in/rachit-gupta-906645147/">
+                <a href="https://www.linkedin.com/in/gilbert-bageni-9413242a3/">
                   <i class="fab fa-linkedin" />
                 </a>
               </p>

@@ -18,8 +18,7 @@ const About = () => {
           <h1 className="about_h1">About Me</h1>
           <p data-aos="fade-up">
          
-Dynamic Full Stack Developer specializing in Software Engineering. Dedicated to crafting innovative solutions, I leverage strong engineering principles to surpass industry standards. With a unique blend of creativity and analytical thinking, I excel in collaborating with cross-functional teams and adapting to emerging technologies. My commitment to lifelong learning ensures I stay at the forefront of industry trends, ready to contribute meaningfully to the dynamic field of software engineering. Excited about driving innovation and tackling new challenges.
-
+          Versatile Full Stack Developer with expertise in Software Engineering, committed to surpassing industry standards through innovative solutions. A creative and analytical thinker, adept at collaborating with cross-functional teams and adapting to emerging technologies.
 
 
 
@@ -65,11 +64,11 @@ Dynamic Full Stack Developer specializing in Software Engineering. Dedicated to 
                 </Tooltip>
                 <Tooltip
                   TransitionComponent={Zoom}
-                  title="JAVA"
+                  title="PYTHON"
                   data-aos="zoom-out-left"
                   data-aos-duration="3000"
                 >
-                  <i className="fab fa-java fa-3x" aria-hidden="true" />
+                  <i className="fab fa-python fa-3x" aria-hidden="true" />
                 </Tooltip>
                 <Tooltip
                   TransitionComponent={Zoom}

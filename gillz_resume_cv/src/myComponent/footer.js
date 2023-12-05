@@ -18,16 +18,16 @@ export default class Footer extends Component {
           </Typography>
         </div>
         <div className="footer-a">
-          <a href="https://www.facebook.com/gr8.rachit" target="_blank">
+          <a href="https://www.facebook.com/profile.php?id=100086627101609" target="_blank">
             <i class="fab fa-facebook-f " />
           </a>
-          <a href="https://twitter.com/rachit_g8t" target="_blank">
+          <a href="https://twitter.com/bert_wilber" target="_blank">
             <i class="fab fa-twitter" />
           </a>
-          <a href="https://www.instagram.com/_rachit_gupta/" target="_blank">
+          <a href="https://www.instagram.com/gilley_jr/" target="_blank">
             <i class="fab fa-instagram" />
           </a>
-          <a href="mailto: guptarachit371@gmail.com">
+          <a href="mailto: bagenigilbert@gmail.com">
             <i class="fas fa-envelope" />
           </a>
         </div>

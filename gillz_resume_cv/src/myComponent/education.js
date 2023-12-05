@@ -24,17 +24,15 @@ const styles = theme => ({
 });
 
 function getSteps() {
-  return ["Bachelor's Degree", "Higher Secondary", "High School"];
+  return ["Moringa Certificate","High School"];
 }
 
 function getStepContent(step) {
   switch (step) {
     case 0:
-      return `Pursuing Bachelor of Engineering in Computer Science from Madhav Institute Of Technology And Science, Gwalior`;
+      return `Pursuing a Software Engineering certificate from Moringa School of Technology`;
     case 1:
-      return "Completed Higher Secondary with 87% from Scholars's Home Public School, Bhopal";
-    case 2:
-      return `Completed High School with 92% from Robertson Convent Higher Secondary School, Umaria`;
+      return "After completing high school at Matare Boys High, I pursued further education at Moringa School, where I not only graduated with honors but also gained extensive knowledge and skills. This comprehensive learning experience has equipped me to adeptly tackle and solve a wide range of problems";
     default:
       return "Unknown step";
   }
@@ -43,7 +41,7 @@ function getStepContent(step) {
 class VerticalLinearStepper extends Component {
   state = {
     activeStep: 0,
-    year: ["2016 - 2020", "2014 - 2015", "2013 - 2014"]
+    year: ["2022 - 2023", "2017 - 2021", "2017 - 2021"]
   };
   handleNext = () => {
     this.setState(state => ({

@@ -63,7 +63,7 @@ class Header extends Component {
               <Button
                 color="inherit"
                 style={{ fontSize: "1rem" }}
-                href="https://drive.google.com/file/d/14f8zSAXWWEuT3dpMwlGFyneJEV--vY3I/view"
+                href="https://drive.google.com/file/d/1AbSSxsXOu8sS_JPftFqWVTvlV73pFp7x/view?usp=drive_link"
               >
                 <i class="fas fa-cloud-download-alt"> DOWNLOAD CV</i>
               </Button>
@@ -108,7 +108,7 @@ class Header extends Component {
                 color="inherit"
                 style={{ fontSize: "1rem" }}
               >
-                Achievements
+                Qualities
               </Button>
             </Hidden>
           </Toolbar>
@@ -133,7 +133,7 @@ class Header extends Component {
                     "experience",
                     "education",
                     "skills",
-                    "achievements"
+                    "Qualities"
                   ].map((text, index) => (
                     <ListItem button key={index} className="menu_btn">
                       <Button href={`#${text}`} onClick={this.handleMenubutton}>

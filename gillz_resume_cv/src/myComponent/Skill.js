@@ -9,24 +9,24 @@ class Skills extends React.Component {
         </h1>
         <div className="wrapper_skill">
           <div>
-            <p>C++</p>
+            <p>Tailwind</p>
             <div className="container">
               <div
                 className="skills C"
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                85%
+              90%
               </div>
             </div>{" "}
-            <p>Java Core</p>
+            <p>Django</p>
             <div className="container">
               <div
                 className="skills JAVA"
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                80%
+                60%
               </div>
             </div>
             <p>Html</p>
@@ -39,14 +39,14 @@ class Skills extends React.Component {
                 90%
               </div>
             </div>
-            <p>Css</p>
+            <p>MongoDB</p>
             <div className="container">
               <div
                 className="skills css"
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                80%
+                65%
               </div>
             </div>
             <p>JavaScript</p>
@@ -56,7 +56,7 @@ class Skills extends React.Component {
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                85%
+                75%
               </div>
             </div>
             <p>ReactJS</p>
@@ -66,10 +66,10 @@ class Skills extends React.Component {
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                75%
+                85%
               </div>
             </div>
-            <p>NodeJS</p>
+            <p>Flask</p>
             <div className="container">
               <div
                 className="skills node"
@@ -79,7 +79,7 @@ class Skills extends React.Component {
                 70%
               </div>
             </div>
-            <p>MongoDB</p>
+            <p>Node.js</p>
             <div className="container">
               <div
                 className="skills db"
@@ -96,7 +96,7 @@ class Skills extends React.Component {
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                50%
+                60%
               </div>
             </div>
           </div>

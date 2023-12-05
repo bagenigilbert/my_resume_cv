@@ -181,22 +181,22 @@ p i {
   opacity: 0.8;
 }
 p i:first-child {
-  color: lightcoral;
+  color: #E44D26;
 }
 p i:nth-child(2) {
-  color: lightseagreen;
+  color: #2965f1;
 }
 p i:nth-child(3) {
-  color: yellow;
+  color: #F7DF1E;
 }
 p i:nth-child(4) {
-  color: lightskyblue;
+  color: #61DAFB;
 }
 p i:nth-child(6) {
-  color: lightgreen;
+  color: #68A063;
 }
 p i:nth-child(5) {
-  color: lightsalmon;
+  color: #47A248;
 }
 ul li {
   padding: 10px;
@@ -305,7 +305,6 @@ ul li {
   grid-row-gap: 1em;
 }
 .workcard {
-  color: wheat;
   width: 345px;
   background: #141e30; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -423,3 +422,4 @@ ul li {
   width: 50%;
   background-color: lightcoral;
 }
+

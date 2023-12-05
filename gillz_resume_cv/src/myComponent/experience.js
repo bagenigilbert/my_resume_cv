@@ -41,7 +41,7 @@ class Experience extends Component {
       <Fragment>
         <div className="exp_row" id="experience">
           <h1 className="name-css">
-            Work <span className="surname">Experience</span>
+            My <span className="surname">Experience</span>
           </h1>
         </div>
         <div className="workchips">
@@ -52,15 +52,13 @@ class Experience extends Component {
             <Divider light />
             <CardContent>
               <i className="fas fa-map-marker-alt" />
-              <h2 style={{ color: "#cac531" }}>MITS</h2>
+              <h2 style={{ color: "#cac531" }}>Development</h2>
               <Typography variant="body2" color="inherit" component="p">
-                Developed a full functional project for the MP Police . It is a
-                Crime Detection System which will identify the criminals in the
-                prone areas.
+              I have developed an app specializing in delivery services and a separate platform for selling photos through Photoshop. The delivery app ensures efficient and secure parcel transport, while the Photoshop-integrated platform facilitates the sale of high-quality images.
               </Typography>
             </CardContent>
             <CardActions>
-              <span>Jan 2019 -</span>-<span>May 2019</span>
+              <span>June 2023 -</span>-<span>July 2023</span>
             </CardActions>
           </Card>
           <Card className="workcard" data-aos="zoom-in">
@@ -71,14 +69,13 @@ class Experience extends Component {
             <CardContent>
               {" "}
               <i className="fas fa-map-marker-alt" />
-              <h2 style={{ color: "#cac531" }}>ACM Student Chapter</h2>
+              <h2 style={{ color: "#cac531" }}>Web Skills</h2>
               <Typography variant="body2" color="inherit">
-                Developed the official website for the event name AlgoRythm
-                conducted by <b> MITS ACM STUDENT CHAPTER</b>.
+              <b>As a web developer, I bring a wealth of experience and expertise to the table. I am proficient in a wide range of web development technologies, including HTML, CSS, JavaScript, and various frameworks. My portfolio showcases a diverse array of successful projects, highlighting my ability to create responsive and visually appealing websites.</b>.
               </Typography>
             </CardContent>
             <CardActions>
-              <span>Jan 2019 -</span>-<span>Feb 2019</span>
+              <span>June 2023 -</span>-<span>July 2023</span>
             </CardActions>
           </Card>
           <Card className="workcard" data-aos="zoom-in-left">
@@ -88,13 +85,12 @@ class Experience extends Component {
             <Divider light />
             <CardContent>
               <i className="fas fa-map-marker-alt" />
-              <h2 style={{ color: "#cac531" }}>AgroGram</h2>
+              <h2 style={{ color: "#cac531" }}>Backend Skills</h2>
               <Typography variant="body2" color="inherit" component="p">
-                Currently Working
-              </Typography>
+              I excel in backend development, specializing in frameworks like Django, Flask, and various other technologies. My skill set encompasses designing and implementing robust, scalable backend solutions that ensure optimal performance and seamless functionality for your projects. With a deep understanding of server-side languages, database management, and API development, I bring a comprehensive approach to deliver top-tier backend solutions tailored to your unique requirements              </Typography>
             </CardContent>
             <CardActions>
-              <span>June 2019 -</span>
+              <span>June 2023 -</span>
               <span>Present</span>
             </CardActions>
           </Card>
