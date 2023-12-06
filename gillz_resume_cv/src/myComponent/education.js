@@ -26,17 +26,17 @@ const styles = theme => ({
 function getSteps() {
   return ["Moringa Certificate","High School"];
 }
-
 function getStepContent(step) {
   switch (step) {
     case 0:
-      return `Pursuing a Software Engineering certificate from Moringa School of Technology`;
+      return `I have successfully earned a Software Engineering certificate from Moringa School of Technology`;
     case 1:
-      return "After completing high school at Matare Boys High, I pursued further education at Moringa School, where I not only graduated with honors but also gained extensive knowledge and skills. This comprehensive learning experience has equipped me to adeptly tackle and solve a wide range of problems";
+      return "Following my high school graduation from Matare Boys High, I pursued advanced education at Moringa School. Not only did I graduate with honors, but I also acquired extensive knowledge and skills. This comprehensive learning experience has equipped me to adeptly tackle and solve a wide range of problems.";
     default:
       return "Unknown step";
   }
 }
+
 
 class VerticalLinearStepper extends Component {
   state = {
